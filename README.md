@@ -190,4 +190,4 @@ This dashboard suite empowers organizations to:
 
 ---
 
-<p align="center">Made with ❤️ using Power BI &amp; Data Analytics</p>
+<p align="center">Made with Power BI</p>
